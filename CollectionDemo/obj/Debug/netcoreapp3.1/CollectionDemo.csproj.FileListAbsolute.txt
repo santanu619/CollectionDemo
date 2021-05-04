@@ -1,0 +1,13 @@
+C:\Users\SANTANU\source\repos\CollectionDemo\CollectionDemo\bin\Debug\netcoreapp3.1\CollectionDemo.exe
+C:\Users\SANTANU\source\repos\CollectionDemo\CollectionDemo\bin\Debug\netcoreapp3.1\CollectionDemo.deps.json
+C:\Users\SANTANU\source\repos\CollectionDemo\CollectionDemo\bin\Debug\netcoreapp3.1\CollectionDemo.runtimeconfig.json
+C:\Users\SANTANU\source\repos\CollectionDemo\CollectionDemo\bin\Debug\netcoreapp3.1\CollectionDemo.runtimeconfig.dev.json
+C:\Users\SANTANU\source\repos\CollectionDemo\CollectionDemo\bin\Debug\netcoreapp3.1\CollectionDemo.dll
+C:\Users\SANTANU\source\repos\CollectionDemo\CollectionDemo\bin\Debug\netcoreapp3.1\CollectionDemo.pdb
+C:\Users\SANTANU\source\repos\CollectionDemo\CollectionDemo\obj\Debug\netcoreapp3.1\CollectionDemo.csprojAssemblyReference.cache
+C:\Users\SANTANU\source\repos\CollectionDemo\CollectionDemo\obj\Debug\netcoreapp3.1\CollectionDemo.AssemblyInfoInputs.cache
+C:\Users\SANTANU\source\repos\CollectionDemo\CollectionDemo\obj\Debug\netcoreapp3.1\CollectionDemo.AssemblyInfo.cs
+C:\Users\SANTANU\source\repos\CollectionDemo\CollectionDemo\obj\Debug\netcoreapp3.1\CollectionDemo.csproj.CoreCompileInputs.cache
+C:\Users\SANTANU\source\repos\CollectionDemo\CollectionDemo\obj\Debug\netcoreapp3.1\CollectionDemo.dll
+C:\Users\SANTANU\source\repos\CollectionDemo\CollectionDemo\obj\Debug\netcoreapp3.1\CollectionDemo.pdb
+C:\Users\SANTANU\source\repos\CollectionDemo\CollectionDemo\obj\Debug\netcoreapp3.1\CollectionDemo.genruntimeconfig.cache
