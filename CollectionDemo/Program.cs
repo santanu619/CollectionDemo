@@ -10,6 +10,7 @@ namespace CollectionDemo
             doListDemo();
             doSetDemo();
             doQueueDemo();
+            doStackDemo();
         }
         private static void doListDemo()
         {
@@ -73,6 +74,26 @@ namespace CollectionDemo
             {
                 Console.WriteLine(enumerator.Current);
             }
+        }
+
+        private static void doStackDemo()
+        {
+            Console.WriteLine("\nIn doStackDemo");
+            //Creating Stack
+            Stack<string> stack = new Stack<string>();
+            stack.Push("Ayush");
+            stack.Push("Garvit");
+            stack.Push("Amit");
+            stack.Push("Ashish");
+            stack.Push("Garima");
+            string pop = stack.Pop();
+
+            //Iterating stack elements
+            foreach(var element in stack)
+            {
+                Console.WriteLine(element);
+            }
+            Console.WriteLine("Popped element: " + pop);
         }
     }
 }
