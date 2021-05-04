@@ -11,6 +11,7 @@ namespace CollectionDemo
             doSetDemo();
             doQueueDemo();
             doStackDemo();
+            doDictionaryDemo();
         }
         private static void doListDemo()
         {
@@ -94,6 +95,23 @@ namespace CollectionDemo
                 Console.WriteLine(element);
             }
             Console.WriteLine("Popped element: " + pop);
+        }
+        private static void doDictionaryDemo()
+        {
+            Console.WriteLine("\nIn doDictionaryDemo");
+
+            Dictionary<int, string> dictionary = new Dictionary<int, string>();
+            dictionary.Add(100, "Amit");
+            dictionary.Add(101, "Rahul");
+            dictionary.Add(102, "Vijay");
+
+            Console.WriteLine("Access value using key(key-100):" + dictionary[100]);
+
+            Console.WriteLine("\nIterating Dictionary:");
+            foreach(var element in dictionary)
+            {
+                Console.WriteLine("Key=" + element.Key + "& Value =" + element.Value);
+            }
         }
     }
 }
